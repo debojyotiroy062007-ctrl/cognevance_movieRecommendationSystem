@@ -1,0 +1,3 @@
+Algorithm,RMSE,MAE,Fit Time (s),Test Time (s)
+BaselineOnly,0.8723,0.6724,0.2184,0.0781
+SVD (50 Latent Factors),0.8711,0.6695,0.6991,0.1037

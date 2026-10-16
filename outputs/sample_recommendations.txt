@@ -1,0 +1,24 @@
+==================================================
+      MOVIE RECOMMENDATION SYSTEM - SAMPLE OUTPUT
+==================================================
+
+--- TOP 5 RECOMMENDATIONS FOR USER ID 1 ---
+Rank 1: [318] Shawshank Redemption, The (1994) | Genre: Crime|Drama | Predicted Rating: 5.0
+Rank 2: [750] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964) | Genre: Comedy|War | Predicted Rating: 5.0
+Rank 3: [858] Godfather, The (1972) | Genre: Crime|Drama | Predicted Rating: 5.0
+Rank 4: [899] Singin' in the Rain (1952) | Genre: Comedy|Musical|Romance | Predicted Rating: 5.0
+Rank 5: [904] Rear Window (1954) | Genre: Mystery|Thriller | Predicted Rating: 5.0
+
+--- TOP 5 RECOMMENDATIONS FOR USER ID 10 ---
+Rank 1: [1270] Back to the Future (1985) | Genre: Adventure|Comedy|Sci-Fi | Predicted Rating: 4.354
+Rank 2: [8368] Harry Potter and the Prisoner of Azkaban (2004) | Genre: Adventure|Fantasy|IMAX | Predicted Rating: 4.212
+Rank 3: [1136] Monty Python and the Holy Grail (1975) | Genre: Adventure|Comedy|Fantasy | Predicted Rating: 4.119
+Rank 4: [1197] Princess Bride, The (1987) | Genre: Action|Adventure|Comedy|Fantasy|Romance | Predicted Rating: 4.107
+Rank 5: [168252] Logan (2017) | Genre: Action|Sci-Fi | Predicted Rating: 4.1
+
+--- TOP 5 RECOMMENDATIONS FOR USER ID 50 ---
+Rank 1: [4993] Lord of the Rings: The Fellowship of the Ring, The (2001) | Genre: Adventure|Fantasy | Predicted Rating: 3.609
+Rank 2: [1221] Godfather: Part II, The (1974) | Genre: Crime|Drama | Predicted Rating: 3.541
+Rank 3: [7153] Lord of the Rings: The Return of the King, The (2003) | Genre: Action|Adventure|Drama|Fantasy | Predicted Rating: 3.541
+Rank 4: [50] Usual Suspects, The (1995) | Genre: Crime|Mystery|Thriller | Predicted Rating: 3.516
+Rank 5: [260] Star Wars: Episode IV - A New Hope (1977) | Genre: Action|Adventure|Sci-Fi | Predicted Rating: 3.505
